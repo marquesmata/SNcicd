@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="CICD GitHub" max_length="40" name="x_470823_mcps_inte_cicd_github" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Integration Details " max_length="500" name="integration_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Integration ID" max_length="40" name="integration_id" type="string"/>
+    </element>
+</database>
